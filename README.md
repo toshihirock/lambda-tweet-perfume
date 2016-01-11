@@ -3,7 +3,7 @@ tweet Perfume MV randomly on AWS Lambda
 
 # Preparation
 
-Create `.env.js` to specify Twitter key and Youtube Access Key
+Create `.env` to specify Twitter key and Youtube Access Key
 
 ```.env
 CONSUMER_KEY=xxxxxx
